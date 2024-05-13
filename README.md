@@ -21,9 +21,9 @@ Overall, this code provides a user-friendly interface for managing a dictionary 
 
 
 
-<img src="image.jpg" alt="Description of the image">
+<img src="Screenshot 2024-05-09 223300.jpg" alt="Description of the image">
 
-<img src="image.jpg" alt="Description of the image">
+<img src="Screenshot 2024-05-09 223311.jpg" alt="Description of the image">
 
 
 
